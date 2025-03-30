@@ -185,6 +185,9 @@
         <mxCell id="86j4ABVQE--yMnyYTYTQ-72" value="&lt;i&gt;Data Architecture Serving Both Operational &amp;amp; Analytics Needs&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="453" y="103" width="705" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="86j4ABVQE--yMnyYTYTQ-74" value="Trusted" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="804.5" y="334" width="58" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
